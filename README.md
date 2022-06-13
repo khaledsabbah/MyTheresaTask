@@ -19,6 +19,7 @@
 ## Install
 - extract the .zip file or download using `git clone https://github.com/khaledsabbah/MyTheresa.git MyTheresa`
 - `cd MyTheresa` <small> ( go to task location )</small>
+- `cp -rf .env.example .env`
 - `make init`
 - `make install permission`
 - You should see the following image
